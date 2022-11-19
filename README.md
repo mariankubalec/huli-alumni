@@ -15,7 +15,7 @@ LeetCode: https://leetcode.com/{username}
 
 Hackerrank: https://www.hackerrank.com/{username}
 
-Codewars: https://www.codewars.com/users/{username}
+Codewars: https://www.codewars.com/users/mariankubalec
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
 Upload your solutions as files into interview-tests/ directory
