@@ -9,6 +9,7 @@ Email: marian.kubalec@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 {project-name}: {link-to-repo}
+TodoUser: https://github.com/mariankubalec/todo-user
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/{username}
